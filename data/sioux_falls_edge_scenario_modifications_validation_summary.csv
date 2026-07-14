@@ -1,0 +1,17 @@
+check,value
+overall_status,PASS
+source_rows_parsed,456
+scenario_count,6
+links_per_scenario_expected,76
+scenario_probability_sum,1.000000
+duplicate_scenario_link_rows,0
+endpoint_mismatches_vs_official_sioux_falls_network,0
+parameter_formula_inconsistencies,0
+reference_time_formula_inconsistencies,0
+rows_passing_all_numeric_checks,456
+rows_normal,76
+rows_light_rain,76
+rows_minor_incident,76
+rows_flood_upper,76
+rows_flood_middle,76
+rows_flood_lower,76
