@@ -1,0 +1,6 @@
+Scenario,NominalScenarioProbability,Before_t0_BC,Before_capacity_BC,Before_beta_BC,Before_gamma_BC,Before_delta_BC,After_t0_BC,After_capacity_BC,After_beta_BC,After_gamma_BC,After_delta_BC
+Normal,0.55,0.8,120.0,0.15,4.0,0.0,1.76,78.0,0.15,4.0,4.0
+Upper incident,0.18,0.8160000000000001,115.19999999999999,0.15,4.0,0.3,1.2,95.0,0.15,4.0,1.5
+Lower incident,0.17,0.8160000000000001,115.19999999999999,0.15,4.0,0.3,1.2,95.0,0.15,4.0,1.5
+Shortcut incident,0.06,1.0,42.0,0.15,4.0,24.0,1.2,110.0,0.15,4.0,3.0
+System-wide,0.04,0.976,69.6,0.15,4.0,10.0,1.4,100.0,0.15,4.0,5.0

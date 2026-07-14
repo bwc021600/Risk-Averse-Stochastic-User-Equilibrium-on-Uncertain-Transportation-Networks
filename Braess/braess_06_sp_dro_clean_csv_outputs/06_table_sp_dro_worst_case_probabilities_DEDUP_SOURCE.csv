@@ -1,0 +1,8 @@
+Diagnostic case,Network,rho,Normal,Upper incident,Lower incident,Shortcut incident,System-wide
+Empirical training law,Both,0.00,0.545,0.182,0.182,0.091,0.000
+"DRO, alpha=0.96, eta=0.6",Before,0.05,0.540,0.182,0.182,0.057,0.040
+"DRO, alpha=0.96, eta=0.6",After,0.05,0.545,0.182,0.182,0.050,0.041
+"DRO, alpha=0.96, eta=0.6",Before,0.10,0.478,0.182,0.182,0.091,0.068
+"DRO, alpha=0.96, eta=0.6",After,0.10,0.545,0.182,0.182,0.008,0.083
+"DRO, alpha=0.96, eta=0.6",Before,0.20,0.484,0.182,0.182,0.000,0.152
+"DRO, alpha=0.96, eta=0.6",After,0.20,0.484,0.182,0.182,0.000,0.152

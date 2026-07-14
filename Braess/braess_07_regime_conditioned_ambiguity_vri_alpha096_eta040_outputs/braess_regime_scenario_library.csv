@@ -1,0 +1,8 @@
+Scenario,Regime,p0_regime,conditional_probability,unconditional_probability,rho_w,xi1,xi2,xi3
+Normal-low,Normal,0.55,0.7,0.385,0.04,0.0,0.0,0.0
+Normal-high,Normal,0.55,0.3,0.165,0.04,0.25,0.0,0.0
+Upper incident,Localized incident,0.41,0.43902439024390244,0.18,0.1,0.75,0.05,0.05
+Lower incident,Localized incident,0.41,0.41463414634146345,0.17,0.1,0.05,0.75,0.05
+Shortcut incident,Localized incident,0.41,0.14634146341463414,0.05999999999999999,0.1,0.05,0.05,0.75
+Flood-moderate,Flood,0.04,0.65,0.026000000000000002,0.14,0.62,0.62,0.62
+Flood-severe,Flood,0.04,0.35,0.013999999999999999,0.14,1.0,1.0,1.0
