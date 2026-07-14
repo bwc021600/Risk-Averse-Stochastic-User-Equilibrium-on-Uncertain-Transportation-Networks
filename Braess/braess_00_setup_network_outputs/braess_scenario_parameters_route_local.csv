@@ -1,0 +1,26 @@
+Instance,Scenario,Probability,Link,t0,capacity,Delta
+Route-local tail Braess,Normal,0.55,A→B,3.0,130.0,0.0
+Route-local tail Braess,Normal,0.55,A→C,7.5,85.0,0.0
+Route-local tail Braess,Normal,0.55,B→C,0.8,120.0,0.0
+Route-local tail Braess,Normal,0.55,B→D,14.0,65.0,0.0
+Route-local tail Braess,Normal,0.55,C→D,8.0,110.0,0.0
+Route-local tail Braess,Upper incident,0.18,A→B,3.24,101.4,4.0
+Route-local tail Braess,Upper incident,0.18,A→C,7.65,81.6,0.3
+Route-local tail Braess,Upper incident,0.18,B→C,0.8160000000000001,115.19999999999999,0.3
+Route-local tail Braess,Upper incident,0.18,B→D,16.52,35.75,16.0
+Route-local tail Braess,Upper incident,0.18,C→D,8.16,105.6,0.3
+Route-local tail Braess,Lower incident,0.17,A→B,3.06,124.8,0.3
+Route-local tail Braess,Lower incident,0.17,A→C,8.549999999999999,52.7,10.0
+Route-local tail Braess,Lower incident,0.17,B→C,0.8160000000000001,115.19999999999999,0.3
+Route-local tail Braess,Lower incident,0.17,B→D,14.280000000000001,62.4,0.3
+Route-local tail Braess,Lower incident,0.17,C→D,8.64,82.5,4.0
+Route-local tail Braess,Shortcut incident,0.06,A→B,3.0300000000000002,127.39999999999999,0.2
+Route-local tail Braess,Shortcut incident,0.06,A→C,7.575,83.3,0.2
+Route-local tail Braess,Shortcut incident,0.06,B→C,1.0,42.0,24.0
+Route-local tail Braess,Shortcut incident,0.06,B→D,14.14,63.699999999999996,0.2
+Route-local tail Braess,Shortcut incident,0.06,C→D,8.08,107.8,0.2
+Route-local tail Braess,System-wide,0.04,A→B,3.66,75.39999999999999,10.0
+Route-local tail Braess,System-wide,0.04,A→C,9.15,49.3,10.0
+Route-local tail Braess,System-wide,0.04,B→C,0.976,69.6,10.0
+Route-local tail Braess,System-wide,0.04,B→D,17.08,37.699999999999996,10.0
+Route-local tail Braess,System-wide,0.04,C→D,9.76,63.8,10.0
