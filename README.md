@@ -276,11 +276,15 @@ The Braess experiments isolate model mechanisms on a small network. The Sioux Fa
 The manuscript is currently represented as a working paper. Until journal or DOI information is available, the repository may be cited as:
 
 ```bibtex
-@unpublished{bao2026riskaverse,
-  title  = {Risk-Averse Stochastic User Equilibrium on Uncertain Transportation Networks},
-  author = {Bao, Wencheng and Vogiatzis, Chrysafis and Kontou, Eleftheria},
-  note   = {Working paper and computational repository},
-  year   = {2026}
+@misc{bao2026riskaverse,
+  title={Risk-Averse Stochastic User Equilibrium on Uncertain Transportation Networks}, 
+  author={Bao, Wencheng and Vogiatzis, Chrysafis and Kontou, Eleftheria},
+  year={2026},
+  eprint={2603.20207},
+  archivePrefix={arXiv},
+  primaryClass={math.OC},
+  doi={10.48550/arXiv.2603.20207},
+  url={https://arxiv.org/abs/2603.20207}
 }
 ```
 
