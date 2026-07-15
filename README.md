@@ -34,14 +34,14 @@ RUN_PROFILE = "paper"
 ```text
 .
 ├── Braess/
-│   ├── 00_network_setup_and_core_truncation_clean.py
-│   ├── 01_direct_eta_risk_sensitivity_with_A_and_B_flows_clean.py
-│   ├── 02_lambda_reporting_grid_alpha090_096_clean.py
-│   ├── 03_tail_tilt_model_ab_interpretation_clean.py
-│   ├── 04_common_tail_exactness_and_warm_start_direct_eta_grid_iteration_only_clean.py
-│   ├── 05_route_overlap_iia_diagnostic_complete_clean.py
-│   ├── 06_wasserstein_dro_reliable_bc_upgrade_FIXED_SELECTED_LAW_RUN_ALL_clean.py
-│   ├── 07_regime_conditioned_ambiguity_vri_alpha096_eta040_WITH_CONDITIONAL_TESTS_clean.py
+│   ├── 00_network_setup_and_core_truncation.py
+│   ├── 01_direct_eta_risk_sensitivity_with_A_and_B_flows.py
+│   ├── 02_lambda_reporting_grid_alpha090_096.py
+│   ├── 03_tail_tilt_model_ab_interpretation.py
+│   ├── 04_common_tail_exactness_and_warm_start_direct_eta_grid_iteration_only.py
+│   ├── 05_route_overlap_iia_diagnostic_complete.py
+│   ├── 06_wasserstein_dro_reliable_bc_upgrade_FIXED_SELECTED_LAW_RUN_ALL.py
+│   ├── 07_regime_conditioned_ambiguity_vri_alpha096_eta040_WITH_CONDITIONAL_TESTS.py
 │   └── braess_*_outputs/
 │
 ├── Sioux Fall/
