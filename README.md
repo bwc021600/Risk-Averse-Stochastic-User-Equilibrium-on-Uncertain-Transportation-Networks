@@ -290,10 +290,6 @@ The manuscript is currently represented as a working paper. Until journal or DOI
 
 Replace this entry with the final journal citation and DOI when available.
 
-## Acknowledgements
-
-This research was partially supported by the Clean Energy and Equitable Transportation Solutions (CLEETS) NSF–UKRI Global Center under NSF award no. 2330565 and by NSF CAREER award no. 2237881.
-
 ## License
 
 A project license has not yet been added. Until a `LICENSE` file is included, the code, data, and computational outputs should be treated as all rights reserved. Please contact the authors before redistribution or reuse beyond normal scholarly citation.
