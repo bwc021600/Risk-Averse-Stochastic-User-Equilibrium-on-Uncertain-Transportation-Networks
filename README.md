@@ -66,14 +66,14 @@ The committed output directories contain manuscript tables, diagnostic CSV files
 
 | Script | Purpose |
 |---|---|
-| `00_network_setup_and_core_truncation_clean.py` | Builds the route-local Braess instance and demonstrates the core truncated-choice mechanism. |
-| `01_direct_eta_risk_sensitivity_with_A_and_B_flows_clean.py` | Solves Model A and Model B over the direct \((\alpha,\eta)\) risk grid. |
-| `02_lambda_reporting_grid_alpha090_096_clean.py` | Generates the optional lambda-mapped reporting grid. |
-| `03_tail_tilt_model_ab_interpretation_clean.py` | Compares route-specific and common tail-tilted scenario laws. |
-| `04_common_tail_exactness_and_warm_start_direct_eta_grid_iteration_only_clean.py` | Tests common-tail exactness and Model B warm starts for Model A. |
-| `05_route_overlap_iia_diagnostic_complete_clean.py` | Performs candidate-set duplication and route-overlap sensitivity diagnostics. |
-| `06_wasserstein_dro_reliable_bc_upgrade_FIXED_SELECTED_LAW_RUN_ALL_clean.py` | Runs finite-support Wasserstein DRO and the reliable \(B\to C\) upgrade experiment. |
-| `07_regime_conditioned_ambiguity_vri_alpha096_eta040_WITH_CONDITIONAL_TESTS_clean.py` | Runs the supplementary regime-conditioned ambiguity and value-of-information experiment. |
+| `00_network_setup_and_core_truncation.py` | Builds the route-local Braess instance and demonstrates the core truncated-choice mechanism. |
+| `01_direct_eta_risk_sensitivity_with_A_and_B_flows.py` | Solves Model A and Model B over the direct \((\alpha,\eta)\) risk grid. |
+| `02_lambda_reporting_grid_alpha090_096.py` | Generates the optional lambda-mapped reporting grid. |
+| `03_tail_tilt_model_ab_interpretation.py` | Compares route-specific and common tail-tilted scenario laws. |
+| `04_common_tail_exactness_and_warm_start_direct_eta_grid_iteration_only.py` | Tests common-tail exactness and Model B warm starts for Model A. |
+| `05_route_overlap_iia_diagnostic_complete.py` | Performs candidate-set duplication and route-overlap sensitivity diagnostics. |
+| `06_wasserstein_dro_reliable_bc_upgrade_FIXED_SELECTED_LAW_RUN_ALL.py` | Runs finite-support Wasserstein DRO and the reliable \(B\to C\) upgrade experiment. |
+| `07_regime_conditioned_ambiguity_vri_alpha096_eta040_WITH_CONDITIONAL_TESTS.py` | Runs the supplementary regime-conditioned ambiguity and value-of-information experiment. |
 
 ### Sioux Falls experiments
 
