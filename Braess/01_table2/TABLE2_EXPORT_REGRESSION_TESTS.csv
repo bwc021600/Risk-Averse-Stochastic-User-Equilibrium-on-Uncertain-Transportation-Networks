@@ -1,0 +1,5 @@
+Test,Passed
+Reject a changed pi_B before export,True
+Reject a stale LaTeX pi_B cell,True
+Reject CSV/solved-source mismatch,True
+Refuse to overwrite an unrelated LaTeX document,True

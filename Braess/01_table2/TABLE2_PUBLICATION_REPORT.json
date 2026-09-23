@@ -1,0 +1,18 @@
+{
+  "all_checks_passed": true,
+  "export_version": "table2-single-source-sync-v2",
+  "publication_target": "/Users/wenchengbao/stochastic sue/Braess/braess_modelB_direct_eta_table_full.tex",
+  "checked_run_table": "/Users/wenchengbao/stochastic sue/Braess/verified_braess_outputs/run_20260923T042939_993976Z/01_table2/braess_modelB_direct_eta_table_full.tex",
+  "source_csv": "/Users/wenchengbao/stochastic sue/Braess/verified_braess_outputs/run_20260923T042939_993976Z/01_table2/table_2_SOURCE_FULL.csv",
+  "previous_table_backup": null,
+  "publication_matches_checked_run_byte_for_byte": true,
+  "passed": true,
+  "rows_checked": 30,
+  "numeric_cells_checked": 450,
+  "text_cells_checked": 30,
+  "csv_numeric_round_trip_exact": true,
+  "all_tex_cells_match_formatted_source": true,
+  "maximum_rounding_error_in_last_place_units": 0.49854912675897367,
+  "tex_sha256": "7218d2ff49ecabc2a539bd2a4f2fd3d7cc7cf5379c78279fec326be8149913ae",
+  "csv_sha256": "590e7d93baa91659c628892a438770a75560f9be4cddfa970960c9823208f755"
+}

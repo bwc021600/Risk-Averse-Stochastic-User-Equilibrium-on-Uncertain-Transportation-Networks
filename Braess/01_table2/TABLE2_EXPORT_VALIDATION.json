@@ -1,0 +1,22 @@
+{
+  "export_version": "table2-single-source-sync-v2",
+  "all_checks_passed": true,
+  "source_validation": {
+    "passed": true,
+    "parameter_cases": 30,
+    "scalar_comparisons": 990,
+    "maximum_source_difference": 3.552713678800501e-15
+  },
+  "export_validation": {
+    "passed": true,
+    "rows_checked": 30,
+    "numeric_cells_checked": 450,
+    "text_cells_checked": 30,
+    "csv_numeric_round_trip_exact": true,
+    "all_tex_cells_match_formatted_source": true,
+    "maximum_rounding_error_in_last_place_units": 0.49854912675897367,
+    "tex_sha256": "7218d2ff49ecabc2a539bd2a4f2fd3d7cc7cf5379c78279fec326be8149913ae",
+    "csv_sha256": "590e7d93baa91659c628892a438770a75560f9be4cddfa970960c9823208f755"
+  },
+  "scope": "All rows and columns in the provided direct-alpha-eta grid; floating-point numerical checks."
+}
